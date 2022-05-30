@@ -53,3 +53,5 @@ Overall, after looking at the results we achieved, we can conclude that:
 
 5. After including data before and during the Housing Market Crash in 2008, the model fell to 60% accuracy, again indicating that the Housing Market Crash in 2008 had a big impact on the data.
 
+6. Moving forward, we need to add more feature variables into our database since we only currently have 2: Population and Income data. A feature variable I was considering was crime rate. Also, we should consider a more complex Machine Learning Model to be able to interpret our data and possibly give us better results.
+
