@@ -32,11 +32,17 @@ The model had now improved to 77% accuracy.
 
 The model had now improved to 96% accuracy indicating that the Housing Market Crash in 2008 had a big impact on the data.
 
-5. For the last test, since I used data from 2010-2020, I wanted to see how the remaining data would test, specifically 2000-2010.
+5. For the next test, since I used data from 2010-2020, I wanted to see how the remaining data would test, specifically 2000-2010.
 
 ![Screenshot](Images/Logistic_Regression_SJ_County_Monthly_2000-2010.PNG)
 
 The model had fallen back down to 60% accuracy indicating that the Housing Market Crash in 2008 had a big impact on the data.
+
+6. For the last test, I wanted to test all of the counties just the year 2020, but with the data split into months so that we would have 680 data points.
+
+![Screenshot](Images/Logistic_Regression_AllCounties2020.PNG)
+
+The model had a combined accuracy rating of 71% when analyzing all of the counties for the year 2020.
 
 
 ### Summary
@@ -53,5 +59,6 @@ Overall, after looking at the results we achieved, we can conclude that:
 
 5. After including data before and during the Housing Market Crash in 2008, the model fell to 60% accuracy, again indicating that the Housing Market Crash in 2008 had a big impact on the data.
 
-6. Moving forward, we need to add more feature variables into our database since we only currently have 2: Population and Income data. A feature variable I was considering was crime rate. Also, we should consider a more complex Machine Learning Model to be able to interpret our data and possibly give us better results.
+6. After including data for all of the counties, I was able to achieve a combined accuracy rating of 71%.
 
+7. Moving forward, we need to add more feature variables into our database since we only currently have 2: Population and Income data. A feature variable I was considering was crime rate. Also, we should consider a more complex Machine Learning Model to be able to interpret our data and possibly give us better results.
