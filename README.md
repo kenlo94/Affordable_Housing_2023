@@ -4,6 +4,17 @@
 
 Initially, our group wanted to find affordable housing in all of California. For this deliverable, I have decided to focus on just one location, San Joaquin County. We defined the term "affordable" as 30% of the Average Yearly Income using a down payment of 20% with a 30-yr fixed interest rate at 5%. Since I was mainly focused on the San Joaquin County, I also considered mortgage rates in California with an applicant whose credit score was between 700-719. I used the 2020 Average Yearly Income data for San Joaquin County which was calculated as $49,300 or $1,233 monthly. This means the applicant is able to afford a home costing roughly $280,000 not including taxes and insurance. 
 
+Here are 3 images representing the historical data available for all 58 Counties in California:
+
+Average Home Price by Year
+![Screenshot](Images/AverageHPvsYear.PNG)
+
+Average Monthly Wages by Year
+![Screenshot](Images/AverageWAGESvsYear.PNG)
+
+Population by Year
+![Screenshot](Images/AveragePOPvsYear.PNG)
+
 ### Results
 
 1. For the first machine learning model, I wanted to test the simplest model available, the LinearRegression model. I inputed Year vs. Wages, Year vs. Average Home Prices, and Year vs. Population separately to see if the model could predict a continous value using a trendline.
@@ -62,3 +73,7 @@ Overall, after looking at the results we achieved, we can conclude that:
 6. After including data for all of the counties, I was able to achieve a combined accuracy rating of 71%.
 
 7. Moving forward, we need to add more feature variables into our database since we only currently have 2: Population and Income data. A feature variable I was considering was crime rate. Also, we should consider a more complex Machine Learning Model to be able to interpret our data and possibly give us better results.
+
+8. Some more feature variables to consider besides crime rate could be school districts and extreme weather. We were also considering implementing this into a webpage that allows the user to input how much they make in a year and calculate the mortgage they are able to afford, then input that piece of information into the machine learning module.
+
+9. A more complex machine learning model that we looked at was LSTM, but we were only able to forecast for one county or one county at a time. In the future, we would like to be able to forecast for all 58 counties at the same time, using multiple input variables, and have all the predictions displayed on the same graph.
