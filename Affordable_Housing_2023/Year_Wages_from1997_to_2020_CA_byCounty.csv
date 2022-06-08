@@ -1,0 +1,1393 @@
+Year,County,Average Weekly Wages,Average Montly Wages
+2020,Alameda  ,1698,6792
+2019,Alameda  ,1531,6124
+2018,Alameda  ,1466,5864
+2017,Alameda  ,1421,5684
+2016,Alameda  ,1357,5428
+2015,Alameda  ,1323,5292
+2014,Alameda  ,1264,5056
+2013,Alameda  ,1223,4892
+2012,Alameda  ,1224,4896
+2011,Alameda  ,1197,4788
+2010,Alameda  ,1176,4704
+2009,Alameda  ,1132,4528
+2008,Alameda  ,1128,4512
+2007,Alameda  ,1119,4476
+2006,Alameda  ,1075,4300
+2005,Alameda  ,1022,4088
+2004,Alameda  ,988,3952
+2003,Alameda  ,939,3756
+2002,Alameda  ,910,3640
+2001,Alameda  ,894,3576
+2000,Alameda  ,868,3472
+1999,Alameda  ,790,3160
+1998,Alameda  ,746,2984
+1997,Alameda  ,712,2848
+2020,Alpine  ,897,3588
+2019,Alpine  ,775,3100
+2018,Alpine  ,704,2816
+2017,Alpine  ,698,2792
+2016,Alpine  ,685,2740
+2015,Alpine  ,748,2992
+2014,Alpine  ,1050,4200
+2013,Alpine  ,1030,4120
+2012,Alpine  ,964,3856
+2011,Alpine  ,853,3412
+2010,Alpine  ,687,2748
+2009,Alpine  ,632,2528
+2008,Alpine  ,594,2376
+2007,Alpine  ,566,2264
+2006,Alpine  ,533,2132
+2005,Alpine  ,489,1956
+2004,Alpine  ,473,1892
+2003,Alpine  ,440,1760
+2002,Alpine  ,425,1700
+2001,Alpine  ,406,1624
+2000,Alpine  ,305,1220
+1999,Alpine  ,280,1120
+1998,Alpine  ,265,1060
+1997,Alpine  ,253,1012
+2020,Amador  ,973,3892
+2019,Amador  ,888,3552
+2018,Amador  ,860,3440
+2017,Amador  ,842,3368
+2016,Amador  ,814,3256
+2015,Amador  ,807,3228
+2014,Amador  ,785,3140
+2013,Amador  ,767,3068
+2012,Amador  ,738,2952
+2011,Amador  ,731,2924
+2010,Amador  ,710,2840
+2009,Amador  ,712,2848
+2008,Amador  ,730,2920
+2007,Amador  ,706,2824
+2006,Amador  ,672,2688
+2005,Amador  ,634,2536
+2004,Amador  ,625,2500
+2003,Amador  ,577,2308
+2002,Amador  ,556,2224
+2001,Amador  ,527,2108
+2000,Amador  ,494,1976
+1999,Amador  ,469,1876
+1998,Amador  ,447,1788
+1997,Amador  ,461,1844
+2020,Butte  ,944,3776
+2019,Butte  ,866,3464
+2018,Butte  ,823,3292
+2017,Butte  ,790,3160
+2016,Butte  ,760,3040
+2015,Butte  ,746,2984
+2014,Butte  ,712,2848
+2013,Butte  ,702,2808
+2012,Butte  ,703,2812
+2011,Butte  ,690,2760
+2010,Butte  ,684,2736
+2009,Butte  ,677,2708
+2008,Butte  ,660,2640
+2007,Butte  ,639,2556
+2006,Butte  ,607,2428
+2005,Butte  ,577,2308
+2004,Butte  ,559,2236
+2003,Butte  ,536,2144
+2002,Butte  ,523,2092
+2001,Butte  ,510,2040
+2000,Butte  ,482,1928
+1999,Butte  ,464,1856
+1998,Butte  ,448,1792
+1997,Butte  ,426,1704
+2020,Calaveras  ,880,3520
+2019,Calaveras  ,803,3212
+2018,Calaveras  ,774,3096
+2017,Calaveras  ,741,2964
+2016,Calaveras  ,734,2936
+2015,Calaveras  ,714,2856
+2014,Calaveras  ,689,2756
+2013,Calaveras  ,678,2712
+2012,Calaveras  ,684,2736
+2011,Calaveras  ,669,2676
+2010,Calaveras  ,657,2628
+2009,Calaveras  ,643,2572
+2008,Calaveras  ,628,2512
+2007,Calaveras  ,605,2420
+2006,Calaveras  ,584,2336
+2005,Calaveras  ,564,2256
+2004,Calaveras  ,545,2180
+2003,Calaveras  ,518,2072
+2002,Calaveras  ,506,2024
+2001,Calaveras  ,482,1928
+2000,Calaveras  ,457,1828
+1999,Calaveras  ,419,1676
+1998,Calaveras  ,413,1652
+1997,Calaveras  ,400,1600
+2020,Colusa  ,946,3784
+2019,Colusa  ,849,3396
+2018,Colusa  ,853,3412
+2017,Colusa  ,803,3212
+2016,Colusa  ,782,3128
+2015,Colusa  ,784,3136
+2014,Colusa  ,744,2976
+2013,Colusa  ,705,2820
+2012,Colusa  ,690,2760
+2011,Colusa  ,674,2696
+2010,Colusa  ,707,2828
+2009,Colusa  ,646,2584
+2008,Colusa  ,640,2560
+2007,Colusa  ,594,2376
+2006,Colusa  ,555,2220
+2005,Colusa  ,543,2172
+2004,Colusa  ,528,2112
+2003,Colusa  ,515,2060
+2002,Colusa  ,511,2044
+2001,Colusa  ,489,1956
+2000,Colusa  ,448,1792
+1999,Colusa  ,427,1708
+1998,Colusa  ,410,1640
+1997,Colusa  ,379,1516
+2020,Contra Costa  ,1500,6000
+2019,Contra Costa  ,1363,5452
+2018,Contra Costa  ,1327,5308
+2017,Contra Costa  ,1293,5172
+2016,Contra Costa  ,1254,5016
+2015,Contra Costa  ,1227,4908
+2014,Contra Costa  ,1191,4764
+2013,Contra Costa  ,1170,4680
+2012,Contra Costa  ,1157,4628
+2011,Contra Costa  ,1137,4548
+2010,Contra Costa  ,1107,4428
+2009,Contra Costa  ,1081,4324
+2008,Contra Costa  ,1083,4332
+2007,Contra Costa  ,1064,4256
+2006,Contra Costa  ,1022,4088
+2005,Contra Costa  ,991,3964
+2004,Contra Costa  ,955,3820
+2003,Contra Costa  ,897,3588
+2002,Contra Costa  ,885,3540
+2001,Contra Costa  ,860,3440
+2000,Contra Costa  ,825,3300
+1999,Contra Costa  ,788,3152
+1998,Contra Costa  ,735,2940
+1997,Contra Costa  ,696,2784
+2020,Del Norte  ,870,3480
+2019,Del Norte  ,776,3104
+2018,Del Norte  ,752,3008
+2017,Del Norte  ,734,2936
+2016,Del Norte  ,716,2864
+2015,Del Norte  ,695,2780
+2014,Del Norte  ,674,2696
+2013,Del Norte  ,671,2684
+2012,Del Norte  ,686,2744
+2011,Del Norte  ,668,2672
+2010,Del Norte  ,651,2604
+2009,Del Norte  ,640,2560
+2008,Del Norte  ,642,2568
+2007,Del Norte  ,630,2520
+2006,Del Norte  ,590,2360
+2005,Del Norte  ,562,2248
+2004,Del Norte  ,548,2192
+2003,Del Norte  ,521,2084
+2002,Del Norte  ,505,2020
+2001,Del Norte  ,494,1976
+2000,Del Norte  ,479,1916
+1999,Del Norte  ,443,1772
+1998,Del Norte  ,429,1716
+1997,Del Norte  ,409,1636
+2020,El Dorado  ,1095,4380
+2019,El Dorado  ,984,3936
+2018,El Dorado  ,968,3872
+2017,El Dorado  ,929,3716
+2016,El Dorado  ,903,3612
+2015,El Dorado  ,873,3492
+2014,El Dorado  ,837,3348
+2013,El Dorado  ,816,3264
+2012,El Dorado  ,796,3184
+2011,El Dorado  ,776,3104
+2010,El Dorado  ,770,3080
+2009,El Dorado  ,778,3112
+2008,El Dorado  ,776,3104
+2007,El Dorado  ,751,3004
+2006,El Dorado  ,722,2888
+2005,El Dorado  ,683,2732
+2004,El Dorado  ,645,2580
+2003,El Dorado  ,628,2512
+2002,El Dorado  ,613,2452
+2001,El Dorado  ,601,2404
+2000,El Dorado  ,568,2272
+1999,El Dorado  ,528,2112
+1998,El Dorado  ,506,2024
+1997,El Dorado  ,459,1836
+2020,Fresno  ,950,3800
+2019,Fresno  ,879,3516
+2018,Fresno  ,848,3392
+2017,Fresno  ,825,3300
+2016,Fresno  ,803,3212
+2015,Fresno  ,784,3136
+2014,Fresno  ,756,3024
+2013,Fresno  ,734,2936
+2012,Fresno  ,729,2916
+2011,Fresno  ,722,2888
+2010,Fresno  ,710,2840
+2009,Fresno  ,701,2804
+2008,Fresno  ,693,2772
+2007,Fresno  ,675,2700
+2006,Fresno  ,644,2576
+2005,Fresno  ,620,2480
+2004,Fresno  ,604,2416
+2003,Fresno  ,581,2324
+2002,Fresno  ,559,2236
+2001,Fresno  ,536,2144
+2000,Fresno  ,503,2012
+1999,Fresno  ,479,1916
+1998,Fresno  ,462,1848
+1997,Fresno  ,440,1760
+2020,Glenn  ,907,3628
+2019,Glenn  ,836,3344
+2018,Glenn  ,818,3272
+2017,Glenn  ,779,3116
+2016,Glenn  ,733,2932
+2015,Glenn  ,726,2904
+2014,Glenn  ,691,2764
+2013,Glenn  ,676,2704
+2012,Glenn  ,670,2680
+2011,Glenn  ,670,2680
+2010,Glenn  ,642,2568
+2009,Glenn  ,634,2536
+2008,Glenn  ,631,2524
+2007,Glenn  ,611,2444
+2006,Glenn  ,590,2360
+2005,Glenn  ,543,2172
+2004,Glenn  ,517,2068
+2003,Glenn  ,508,2032
+2002,Glenn  ,501,2004
+2001,Glenn  ,490,1960
+2000,Glenn  ,466,1864
+1999,Glenn  ,454,1816
+1998,Glenn  ,463,1852
+1997,Glenn  ,436,1744
+2020,Humboldt  ,900,3600
+2019,Humboldt  ,803,3212
+2018,Humboldt  ,782,3128
+2017,Humboldt  ,767,3068
+2016,Humboldt  ,737,2948
+2015,Humboldt  ,718,2872
+2014,Humboldt  ,697,2788
+2013,Humboldt  ,683,2732
+2012,Humboldt  ,672,2688
+2011,Humboldt  ,667,2668
+2010,Humboldt  ,646,2584
+2009,Humboldt  ,633,2532
+2008,Humboldt  ,636,2544
+2007,Humboldt  ,613,2452
+2006,Humboldt  ,589,2356
+2005,Humboldt  ,571,2284
+2004,Humboldt  ,549,2196
+2003,Humboldt  ,532,2128
+2002,Humboldt  ,514,2056
+2001,Humboldt  ,497,1988
+2000,Humboldt  ,486,1944
+1999,Humboldt  ,462,1848
+1998,Humboldt  ,453,1812
+1997,Humboldt  ,433,1732
+2020,Imperial  ,879,3516
+2019,Imperial  ,801,3204
+2018,Imperial  ,771,3084
+2017,Imperial  ,747,2988
+2016,Imperial  ,718,2872
+2015,Imperial  ,692,2768
+2014,Imperial  ,672,2688
+2013,Imperial  ,674,2696
+2012,Imperial  ,678,2712
+2011,Imperial  ,682,2728
+2010,Imperial  ,664,2656
+2009,Imperial  ,658,2632
+2008,Imperial  ,639,2556
+2007,Imperial  ,623,2492
+2006,Imperial  ,578,2312
+2005,Imperial  ,575,2300
+2004,Imperial  ,556,2224
+2003,Imperial  ,543,2172
+2002,Imperial  ,529,2116
+2001,Imperial  ,504,2016
+2000,Imperial  ,468,1872
+1999,Imperial  ,431,1724
+1998,Imperial  ,421,1684
+1997,Imperial  ,391,1564
+2020,Inyo  ,965,3860
+2019,Inyo  ,871,3484
+2018,Inyo  ,845,3380
+2017,Inyo  ,819,3276
+2016,Inyo  ,801,3204
+2015,Inyo  ,802,3208
+2014,Inyo  ,776,3104
+2013,Inyo  ,734,2936
+2012,Inyo  ,726,2904
+2011,Inyo  ,716,2864
+2010,Inyo  ,686,2744
+2009,Inyo  ,679,2716
+2008,Inyo  ,674,2696
+2007,Inyo  ,650,2600
+2006,Inyo  ,602,2408
+2005,Inyo  ,574,2296
+2004,Inyo  ,554,2216
+2003,Inyo  ,543,2172
+2002,Inyo  ,520,2080
+2001,Inyo  ,511,2044
+2000,Inyo  ,482,1928
+1999,Inyo  ,470,1880
+1998,Inyo  ,466,1864
+1997,Inyo  ,447,1788
+2020,Kern  ,1001,4004
+2019,Kern  ,930,3720
+2018,Kern  ,894,3576
+2017,Kern  ,867,3468
+2016,Kern  ,849,3396
+2015,Kern  ,849,3396
+2014,Kern  ,841,3364
+2013,Kern  ,821,3284
+2012,Kern  ,823,3292
+2011,Kern  ,805,3220
+2010,Kern  ,793,3172
+2009,Kern  ,770,3080
+2008,Kern  ,759,3036
+2007,Kern  ,736,2944
+2006,Kern  ,693,2772
+2005,Kern  ,657,2628
+2004,Kern  ,648,2592
+2003,Kern  ,622,2488
+2002,Kern  ,600,2400
+2001,Kern  ,579,2316
+2000,Kern  ,546,2184
+1999,Kern  ,515,2060
+1998,Kern  ,507,2028
+1997,Kern  ,490,1960
+2020,Kings  ,951,3804
+2019,Kings  ,871,3484
+2018,Kings  ,835,3340
+2017,Kings  ,804,3216
+2016,Kings  ,786,3144
+2015,Kings  ,777,3108
+2014,Kings  ,746,2984
+2013,Kings  ,724,2896
+2012,Kings  ,717,2868
+2011,Kings  ,713,2852
+2010,Kings  ,694,2776
+2009,Kings  ,681,2724
+2008,Kings  ,680,2720
+2007,Kings  ,625,2500
+2006,Kings  ,599,2396
+2005,Kings  ,577,2308
+2004,Kings  ,570,2280
+2003,Kings  ,549,2196
+2002,Kings  ,535,2140
+2001,Kings  ,514,2056
+2000,Kings  ,489,1956
+1999,Kings  ,474,1896
+1998,Kings  ,453,1812
+1997,Kings  ,424,1696
+2020,Lake  ,847,3388
+2019,Lake  ,774,3096
+2018,Lake  ,754,3016
+2017,Lake  ,720,2880
+2016,Lake  ,694,2776
+2015,Lake  ,678,2712
+2014,Lake  ,653,2612
+2013,Lake  ,648,2592
+2012,Lake  ,664,2656
+2011,Lake  ,665,2660
+2010,Lake  ,650,2600
+2009,Lake  ,635,2540
+2008,Lake  ,635,2540
+2007,Lake  ,606,2424
+2006,Lake  ,585,2340
+2005,Lake  ,560,2240
+2004,Lake  ,552,2208
+2003,Lake  ,523,2092
+2002,Lake  ,505,2020
+2001,Lake  ,462,1848
+2000,Lake  ,432,1728
+1999,Lake  ,409,1636
+1998,Lake  ,394,1576
+1997,Lake  ,383,1532
+2020,Lassen  ,1048,4192
+2019,Lassen  ,925,3700
+2018,Lassen  ,921,3684
+2017,Lassen  ,886,3544
+2016,Lassen  ,860,3440
+2015,Lassen  ,825,3300
+2014,Lassen  ,811,3244
+2013,Lassen  ,798,3192
+2012,Lassen  ,804,3216
+2011,Lassen  ,794,3176
+2010,Lassen  ,757,3028
+2009,Lassen  ,732,2928
+2008,Lassen  ,748,2992
+2007,Lassen  ,730,2920
+2006,Lassen  ,679,2716
+2005,Lassen  ,645,2580
+2004,Lassen  ,615,2460
+2003,Lassen  ,594,2376
+2002,Lassen  ,566,2264
+2001,Lassen  ,555,2220
+2000,Lassen  ,548,2192
+1999,Lassen  ,519,2076
+1998,Lassen  ,501,2004
+1997,Lassen  ,500,2000
+2020,Los Angeles  ,1403,5612
+2019,Los Angeles  ,1291,5164
+2018,Los Angeles  ,1248,4992
+2017,Los Angeles  ,1211,4844
+2016,Los Angeles  ,1152,4608
+2015,Los Angeles  ,1130,4520
+2014,Los Angeles  ,1090,4360
+2013,Los Angeles  ,1057,4228
+2012,Los Angeles  ,1067,4268
+2011,Los Angeles  ,1047,4188
+2010,Los Angeles  ,1022,4088
+2009,Los Angeles  ,987,3948
+2008,Los Angeles  ,990,3960
+2007,Los Angeles  ,968,3872
+2006,Los Angeles  ,933,3732
+2005,Los Angeles  ,892,3568
+2004,Los Angeles  ,865,3460
+2003,Los Angeles  ,825,3300
+2002,Los Angeles  ,802,3208
+2001,Los Angeles  ,786,3144
+2000,Los Angeles  ,763,3052
+1999,Los Angeles  ,726,2904
+1998,Los Angeles  ,705,2820
+1997,Los Angeles  ,670,2680
+2020,Madera  ,945,3780
+2019,Madera  ,860,3440
+2018,Madera  ,835,3340
+2017,Madera  ,813,3252
+2016,Madera  ,784,3136
+2015,Madera  ,764,3056
+2014,Madera  ,721,2884
+2013,Madera  ,710,2840
+2012,Madera  ,704,2816
+2011,Madera  ,696,2784
+2010,Madera  ,674,2696
+2009,Madera  ,668,2672
+2008,Madera  ,662,2648
+2007,Madera  ,640,2560
+2006,Madera  ,600,2400
+2005,Madera  ,565,2260
+2004,Madera  ,541,2164
+2003,Madera  ,536,2144
+2002,Madera  ,516,2064
+2001,Madera  ,494,1976
+2000,Madera  ,461,1844
+1999,Madera  ,446,1784
+1998,Madera  ,426,1704
+1997,Madera  ,391,1564
+2020,Marin  ,1623,6492
+2019,Marin  ,1422,5688
+2018,Marin  ,1397,5588
+2017,Marin  ,1312,5248
+2016,Marin  ,1293,5172
+2015,Marin  ,1248,4992
+2014,Marin  ,1191,4764
+2013,Marin  ,1142,4568
+2012,Marin  ,1134,4536
+2011,Marin  ,1114,4456
+2010,Marin  ,1080,4320
+2009,Marin  ,1067,4268
+2008,Marin  ,1079,4316
+2007,Marin  ,1072,4288
+2006,Marin  ,1052,4208
+2005,Marin  ,1013,4052
+2004,Marin  ,972,3888
+2003,Marin  ,924,3696
+2002,Marin  ,871,3484
+2001,Marin  ,837,3348
+2000,Marin  ,824,3296
+1999,Marin  ,755,3020
+1998,Marin  ,725,2900
+1997,Marin  ,677,2708
+2020,Mariposa  ,848,3392
+2019,Mariposa  ,802,3208
+2018,Mariposa  ,767,3068
+2017,Mariposa  ,756,3024
+2016,Mariposa  ,733,2932
+2015,Mariposa  ,677,2708
+2014,Mariposa  ,640,2560
+2013,Mariposa  ,623,2492
+2012,Mariposa  ,622,2488
+2011,Mariposa  ,607,2428
+2010,Mariposa  ,603,2412
+2009,Mariposa  ,584,2336
+2008,Mariposa  ,569,2276
+2007,Mariposa  ,560,2240
+2006,Mariposa  ,550,2200
+2005,Mariposa  ,530,2120
+2004,Mariposa  ,526,2104
+2003,Mariposa  ,493,1972
+2002,Mariposa  ,513,2052
+2001,Mariposa  ,486,1944
+2000,Mariposa  ,475,1900
+1999,Mariposa  ,453,1812
+1998,Mariposa  ,424,1696
+1997,Mariposa  ,409,1636
+2020,Mendocino  ,898,3592
+2019,Mendocino  ,799,3196
+2018,Mendocino  ,770,3080
+2017,Mendocino  ,749,2996
+2016,Mendocino  ,721,2884
+2015,Mendocino  ,694,2776
+2014,Mendocino  ,667,2668
+2013,Mendocino  ,659,2636
+2012,Mendocino  ,662,2648
+2011,Mendocino  ,660,2640
+2010,Mendocino  ,643,2572
+2009,Mendocino  ,634,2536
+2008,Mendocino  ,639,2556
+2007,Mendocino  ,607,2428
+2006,Mendocino  ,577,2308
+2005,Mendocino  ,552,2208
+2004,Mendocino  ,526,2104
+2003,Mendocino  ,512,2048
+2002,Mendocino  ,501,2004
+2001,Mendocino  ,485,1940
+2000,Mendocino  ,467,1868
+1999,Mendocino  ,442,1768
+1998,Mendocino  ,425,1700
+1997,Mendocino  ,402,1608
+2020,Merced  ,913,3652
+2019,Merced  ,852,3408
+2018,Merced  ,809,3236
+2017,Merced  ,803,3212
+2016,Merced  ,783,3132
+2015,Merced  ,746,2984
+2014,Merced  ,709,2836
+2013,Merced  ,693,2772
+2012,Merced  ,688,2752
+2011,Merced  ,676,2704
+2010,Merced  ,673,2692
+2009,Merced  ,659,2636
+2008,Merced  ,652,2608
+2007,Merced  ,622,2488
+2006,Merced  ,599,2396
+2005,Merced  ,581,2324
+2004,Merced  ,560,2240
+2003,Merced  ,541,2164
+2002,Merced  ,515,2060
+2001,Merced  ,490,1960
+2000,Merced  ,477,1908
+1999,Merced  ,451,1804
+1998,Merced  ,430,1720
+1997,Merced  ,416,1664
+2020,Modoc  ,814,3256
+2019,Modoc  ,757,3028
+2018,Modoc  ,750,3000
+2017,Modoc  ,730,2920
+2016,Modoc  ,709,2836
+2015,Modoc  ,684,2736
+2014,Modoc  ,662,2648
+2013,Modoc  ,646,2584
+2012,Modoc  ,635,2540
+2011,Modoc  ,635,2540
+2010,Modoc  ,615,2460
+2009,Modoc  ,609,2436
+2008,Modoc  ,595,2380
+2007,Modoc  ,574,2296
+2006,Modoc  ,541,2164
+2005,Modoc  ,509,2036
+2004,Modoc  ,482,1928
+2003,Modoc  ,468,1872
+2002,Modoc  ,456,1824
+2001,Modoc  ,432,1728
+2000,Modoc  ,411,1644
+1999,Modoc  ,392,1568
+1998,Modoc  ,380,1520
+1997,Modoc  ,373,1492
+2020,Mono  ,860,3440
+2019,Mono  ,779,3116
+2018,Mono  ,744,2976
+2017,Mono  ,808,3232
+2016,Mono  ,701,2804
+2015,Mono  ,672,2688
+2014,Mono  ,669,2676
+2013,Mono  ,658,2632
+2012,Mono  ,646,2584
+2011,Mono  ,655,2620
+2010,Mono  ,637,2548
+2009,Mono  ,640,2560
+2008,Mono  ,635,2540
+2007,Mono  ,621,2484
+2006,Mono  ,609,2436
+2005,Mono  ,637,2548
+2004,Mono  ,544,2176
+2003,Mono  ,529,2116
+2002,Mono  ,495,1980
+2001,Mono  ,463,1852
+2000,Mono  ,439,1756
+1999,Mono  ,420,1680
+1998,Mono  ,412,1648
+1997,Mono  ,388,1552
+2020,Monterey  ,1017,4068
+2019,Monterey  ,952,3808
+2018,Monterey  ,924,3696
+2017,Monterey  ,907,3628
+2016,Monterey  ,874,3496
+2015,Monterey  ,848,3392
+2014,Monterey  ,818,3272
+2013,Monterey  ,805,3220
+2012,Monterey  ,796,3184
+2011,Monterey  ,787,3148
+2010,Monterey  ,777,3108
+2009,Monterey  ,774,3096
+2008,Monterey  ,774,3096
+2007,Monterey  ,758,3032
+2006,Monterey  ,730,2920
+2005,Monterey  ,694,2776
+2004,Monterey  ,667,2668
+2003,Monterey  ,645,2580
+2002,Monterey  ,624,2496
+2001,Monterey  ,610,2440
+2000,Monterey  ,579,2316
+1999,Monterey  ,548,2192
+1998,Monterey  ,525,2100
+1997,Monterey  ,501,2004
+2020,Napa  ,1198,4792
+2019,Napa  ,1107,4428
+2018,Napa  ,1070,4280
+2017,Napa  ,1037,4148
+2016,Napa  ,1003,4012
+2015,Napa  ,974,3896
+2014,Napa  ,927,3708
+2013,Napa  ,905,3620
+2012,Napa  ,896,3584
+2011,Napa  ,883,3532
+2010,Napa  ,870,3480
+2009,Napa  ,869,3476
+2008,Napa  ,867,3468
+2007,Napa  ,849,3396
+2006,Napa  ,804,3216
+2005,Napa  ,773,3092
+2004,Napa  ,751,3004
+2003,Napa  ,710,2840
+2002,Napa  ,684,2736
+2001,Napa  ,667,2668
+2000,Napa  ,637,2548
+1999,Napa  ,589,2356
+1998,Napa  ,550,2200
+1997,Napa  ,523,2092
+2020,Nevada  ,1008,4032
+2019,Nevada  ,900,3600
+2018,Nevada  ,874,3496
+2017,Nevada  ,856,3424
+2016,Nevada  ,832,3328
+2015,Nevada  ,813,3252
+2014,Nevada  ,787,3148
+2013,Nevada  ,771,3084
+2012,Nevada  ,784,3136
+2011,Nevada  ,764,3056
+2010,Nevada  ,764,3056
+2009,Nevada  ,749,2996
+2008,Nevada  ,736,2944
+2007,Nevada  ,718,2872
+2006,Nevada  ,688,2752
+2005,Nevada  ,654,2616
+2004,Nevada  ,622,2488
+2003,Nevada  ,598,2392
+2002,Nevada  ,583,2332
+2001,Nevada  ,570,2280
+2000,Nevada  ,550,2200
+1999,Nevada  ,506,2024
+1998,Nevada  ,479,1916
+1997,Nevada  ,471,1884
+2020,Orange  ,1376,5504
+2019,Orange  ,1246,4984
+2018,Orange  ,1200,4800
+2017,Orange  ,1181,4724
+2016,Orange  ,1150,4600
+2015,Orange  ,1148,4592
+2014,Orange  ,1092,4368
+2013,Orange  ,1060,4240
+2012,Orange  ,1065,4260
+2011,Orange  ,1037,4148
+2010,Orange  ,1013,4052
+2009,Orange  ,988,3952
+2008,Orange  ,992,3968
+2007,Orange  ,977,3908
+2006,Orange  ,945,3780
+2005,Orange  ,908,3632
+2004,Orange  ,873,3492
+2003,Orange  ,831,3324
+2002,Orange  ,793,3172
+2001,Orange  ,774,3096
+2000,Orange  ,756,3024
+1999,Orange  ,722,2888
+1998,Orange  ,687,2748
+1997,Orange  ,652,2608
+2020,Placer  ,1244,4976
+2019,Placer  ,1116,4464
+2018,Placer  ,1071,4284
+2017,Placer  ,1053,4212
+2016,Placer  ,1029,4116
+2015,Placer  ,1003,4012
+2014,Placer  ,961,3844
+2013,Placer  ,930,3720
+2012,Placer  ,922,3688
+2011,Placer  ,896,3584
+2010,Placer  ,871,3484
+2009,Placer  ,854,3416
+2008,Placer  ,837,3348
+2007,Placer  ,834,3336
+2006,Placer  ,804,3216
+2005,Placer  ,768,3072
+2004,Placer  ,744,2976
+2003,Placer  ,710,2840
+2002,Placer  ,689,2756
+2001,Placer  ,669,2676
+2000,Placer  ,647,2588
+1999,Placer  ,612,2448
+1998,Placer  ,565,2260
+1997,Placer  ,524,2096
+2020,Plumas  ,922,3688
+2019,Plumas  ,852,3408
+2018,Plumas  ,827,3308
+2017,Plumas  ,805,3220
+2016,Plumas  ,765,3060
+2015,Plumas  ,756,3024
+2014,Plumas  ,751,3004
+2013,Plumas  ,736,2944
+2012,Plumas  ,734,2936
+2011,Plumas  ,712,2848
+2010,Plumas  ,687,2748
+2009,Plumas  ,679,2716
+2008,Plumas  ,688,2752
+2007,Plumas  ,653,2612
+2006,Plumas  ,626,2504
+2005,Plumas  ,601,2404
+2004,Plumas  ,576,2304
+2003,Plumas  ,554,2216
+2002,Plumas  ,520,2080
+2001,Plumas  ,509,2036
+2000,Plumas  ,495,1980
+1999,Plumas  ,482,1928
+1998,Plumas  ,447,1788
+1997,Plumas  ,447,1788
+2020,Riverside  ,979,3916
+2019,Riverside  ,901,3604
+2018,Riverside  ,867,3468
+2017,Riverside  ,848,3392
+2016,Riverside  ,827,3308
+2015,Riverside  ,828,3312
+2014,Riverside  ,776,3104
+2013,Riverside  ,760,3040
+2012,Riverside  ,752,3008
+2011,Riverside  ,751,3004
+2010,Riverside  ,738,2952
+2009,Riverside  ,731,2924
+2008,Riverside  ,732,2928
+2007,Riverside  ,719,2876
+2006,Riverside  ,697,2788
+2005,Riverside  ,668,2672
+2004,Riverside  ,652,2608
+2003,Riverside  ,619,2476
+2002,Riverside  ,596,2384
+2001,Riverside  ,576,2304
+2000,Riverside  ,561,2244
+1999,Riverside  ,535,2140
+1998,Riverside  ,515,2060
+1997,Riverside  ,489,1956
+2020,Sacramento  ,1316,5264
+2019,Sacramento  ,1212,4848
+2018,Sacramento  ,1162,4648
+2017,Sacramento  ,1138,4552
+2016,Sacramento  ,1104,4416
+2015,Sacramento  ,1097,4388
+2014,Sacramento  ,1065,4260
+2013,Sacramento  ,1043,4172
+2012,Sacramento  ,1038,4152
+2011,Sacramento  ,1022,4088
+2010,Sacramento  ,986,3944
+2009,Sacramento  ,969,3876
+2008,Sacramento  ,966,3864
+2007,Sacramento  ,931,3724
+2006,Sacramento  ,895,3580
+2005,Sacramento  ,860,3440
+2004,Sacramento  ,831,3324
+2003,Sacramento  ,810,3240
+2002,Sacramento  ,782,3128
+2001,Sacramento  ,753,3012
+2000,Sacramento  ,728,2912
+1999,Sacramento  ,676,2704
+1998,Sacramento  ,654,2616
+1997,Sacramento  ,619,2476
+2020,San Benito  ,1001,4004
+2019,San Benito  ,975,3900
+2018,San Benito  ,931,3724
+2017,San Benito  ,890,3560
+2016,San Benito  ,854,3416
+2015,San Benito  ,839,3356
+2014,San Benito  ,791,3164
+2013,San Benito  ,756,3024
+2012,San Benito  ,752,3008
+2011,San Benito  ,740,2960
+2010,San Benito  ,722,2888
+2009,San Benito  ,726,2904
+2008,San Benito  ,717,2868
+2007,San Benito  ,686,2744
+2006,San Benito  ,683,2732
+2005,San Benito  ,655,2620
+2004,San Benito  ,637,2548
+2003,San Benito  ,616,2464
+2002,San Benito  ,599,2396
+2001,San Benito  ,569,2276
+2000,San Benito  ,548,2192
+1999,San Benito  ,513,2052
+1998,San Benito  ,480,1920
+1997,San Benito  ,444,1776
+2020,San Bernardino  ,1019,4076
+2019,San Bernardino  ,941,3764
+2018,San Bernardino  ,902,3608
+2017,San Bernardino  ,878,3512
+2016,San Bernardino  ,858,3432
+2015,San Bernardino  ,835,3340
+2014,San Bernardino  ,809,3236
+2013,San Bernardino  ,795,3180
+2012,San Bernardino  ,793,3172
+2011,San Bernardino  ,782,3128
+2010,San Bernardino  ,769,3076
+2009,San Bernardino  ,757,3028
+2008,San Bernardino  ,753,3012
+2007,San Bernardino  ,736,2944
+2006,San Bernardino  ,713,2852
+2005,San Bernardino  ,686,2744
+2004,San Bernardino  ,666,2664
+2003,San Bernardino  ,642,2568
+2002,San Bernardino  ,618,2472
+2001,San Bernardino  ,596,2384
+2000,San Bernardino  ,576,2304
+1999,San Bernardino  ,555,2220
+1998,San Bernardino  ,539,2156
+1997,San Bernardino  ,519,2076
+2020,San Diego  ,1383,5532
+2019,San Diego  ,1235,4940
+2018,San Diego  ,1191,4764
+2017,San Diego  ,1152,4608
+2016,San Diego  ,1119,4476
+2015,San Diego  ,1117,4468
+2014,San Diego  ,1088,4352
+2013,San Diego  ,1055,4220
+2012,San Diego  ,1039,4156
+2011,San Diego  ,1010,4040
+2010,San Diego  ,976,3904
+2009,San Diego  ,947,3788
+2008,San Diego  ,944,3776
+2007,San Diego  ,916,3664
+2006,San Diego  ,880,3520
+2005,San Diego  ,843,3372
+2004,San Diego  ,815,3260
+2003,San Diego  ,779,3116
+2002,San Diego  ,756,3024
+2001,San Diego  ,739,2956
+2000,San Diego  ,720,2880
+1999,San Diego  ,667,2668
+1998,San Diego  ,620,2480
+1997,San Diego  ,586,2344
+2020,San Francisco  ,2949,11796
+2019,San Francisco  ,2496,9984
+2018,San Francisco  ,2278,9112
+2017,San Francisco  ,2098,8392
+2016,San Francisco  ,1955,7820
+2015,San Francisco  ,1867,7468
+2014,San Francisco  ,1767,7068
+2013,San Francisco  ,1649,6596
+2012,San Francisco  ,1605,6420
+2011,San Francisco  ,1551,6204
+2010,San Francisco  ,1468,5872
+2009,San Francisco  ,1415,5660
+2008,San Francisco  ,1452,5808
+2007,San Francisco  ,1445,5780
+2006,San Francisco  ,1360,5440
+2005,San Francisco  ,1281,5124
+2004,San Francisco  ,1199,4796
+2003,San Francisco  ,1131,4524
+2002,San Francisco  ,1125,4500
+2001,San Francisco  ,1174,4696
+2000,San Francisco  ,1110,4440
+1999,San Francisco  ,992,3968
+1998,San Francisco  ,916,3664
+1997,San Francisco  ,859,3436
+2020,San Joaquin  ,1027,4108
+2019,San Joaquin  ,943,3772
+2018,San Joaquin  ,906,3624
+2017,San Joaquin  ,876,3504
+2016,San Joaquin  ,854,3416
+2015,San Joaquin  ,835,3340
+2014,San Joaquin  ,800,3200
+2013,San Joaquin  ,786,3144
+2012,San Joaquin  ,784,3136
+2011,San Joaquin  ,779,3116
+2010,San Joaquin  ,768,3072
+2009,San Joaquin  ,755,3020
+2008,San Joaquin  ,751,3004
+2007,San Joaquin  ,729,2916
+2006,San Joaquin  ,700,2800
+2005,San Joaquin  ,674,2696
+2004,San Joaquin  ,657,2628
+2003,San Joaquin  ,633,2532
+2002,San Joaquin  ,615,2460
+2001,San Joaquin  ,593,2372
+2000,San Joaquin  ,565,2260
+1999,San Joaquin  ,537,2148
+1998,San Joaquin  ,520,2080
+1997,San Joaquin  ,506,2024
+2020,San Luis Obispo  ,1060,4240
+2019,San Luis Obispo  ,981,3924
+2018,San Luis Obispo  ,927,3708
+2017,San Luis Obispo  ,881,3524
+2016,San Luis Obispo  ,852,3408
+2015,San Luis Obispo  ,829,3316
+2014,San Luis Obispo  ,795,3180
+2013,San Luis Obispo  ,780,3120
+2012,San Luis Obispo  ,766,3064
+2011,San Luis Obispo  ,765,3060
+2010,San Luis Obispo  ,747,2988
+2009,San Luis Obispo  ,748,2992
+2008,San Luis Obispo  ,733,2932
+2007,San Luis Obispo  ,707,2828
+2006,San Luis Obispo  ,676,2704
+2005,San Luis Obispo  ,649,2596
+2004,San Luis Obispo  ,634,2536
+2003,San Luis Obispo  ,599,2396
+2002,San Luis Obispo  ,577,2308
+2001,San Luis Obispo  ,559,2236
+2000,San Luis Obispo  ,539,2156
+1999,San Luis Obispo  ,516,2064
+1998,San Luis Obispo  ,495,1980
+1997,San Luis Obispo  ,476,1904
+2020,San Mateo  ,3020,12080
+2019,San Mateo  ,2496,9984
+2018,San Mateo  ,2431,9724
+2017,San Mateo  ,2235,8940
+2016,San Mateo  ,2067,8268
+2015,San Mateo  ,1976,7904
+2014,San Mateo  ,1952,7808
+2013,San Mateo  ,1983,7932
+2012,San Mateo  ,1985,7940
+2011,San Mateo  ,1466,5864
+2010,San Mateo  ,1428,5712
+2009,San Mateo  ,1471,5884
+2008,San Mateo  ,1387,5548
+2007,San Mateo  ,1390,5560
+2006,San Mateo  ,1308,5232
+2005,San Mateo  ,1280,5120
+2004,San Mateo  ,1201,4804
+2003,San Mateo  ,1146,4584
+2002,San Mateo  ,1101,4404
+2001,San Mateo  ,1198,4792
+2000,San Mateo  ,1290,5160
+1999,San Mateo  ,992,3968
+1998,San Mateo  ,873,3492
+1997,San Mateo  ,830,3320
+2020,Santa Barbara  ,1138,4552
+2019,Santa Barbara  ,1073,4292
+2018,Santa Barbara  ,1039,4156
+2017,Santa Barbara  ,1012,4048
+2016,Santa Barbara  ,976,3904
+2015,Santa Barbara  ,967,3868
+2014,Santa Barbara  ,919,3676
+2013,Santa Barbara  ,899,3596
+2012,Santa Barbara  ,894,3576
+2011,Santa Barbara  ,869,3476
+2010,Santa Barbara  ,849,3396
+2009,Santa Barbara  ,832,3328
+2008,Santa Barbara  ,820,3280
+2007,Santa Barbara  ,807,3228
+2006,Santa Barbara  ,776,3104
+2005,Santa Barbara  ,752,3008
+2004,Santa Barbara  ,721,2884
+2003,Santa Barbara  ,687,2748
+2002,Santa Barbara  ,661,2644
+2001,Santa Barbara  ,647,2588
+2000,Santa Barbara  ,625,2500
+1999,Santa Barbara  ,581,2324
+1998,Santa Barbara  ,564,2256
+1997,Santa Barbara  ,534,2136
+2020,Santa Clara  ,3127,12508
+2019,Santa Clara  ,2659,10636
+2018,Santa Clara  ,2590,10360
+2017,Santa Clara  ,2437,9748
+2016,Santa Clara  ,2270,9080
+2015,Santa Clara  ,2181,8724
+2014,Santa Clara  ,2027,8108
+2013,Santa Clara  ,1895,7580
+2012,Santa Clara  ,1845,7380
+2011,Santa Clara  ,1824,7296
+2010,Santa Clara  ,1719,6876
+2009,Santa Clara  ,1545,6180
+2008,Santa Clara  ,1554,6216
+2007,Santa Clara  ,1594,6376
+2006,Santa Clara  ,1488,5952
+2005,Santa Clara  ,1398,5592
+2004,Santa Clara  ,1353,5412
+2003,Santa Clara  ,1265,5060
+2002,Santa Clara  ,1213,4852
+2001,Santa Clara  ,1268,5072
+2000,Santa Clara  ,1468,5872
+1999,Santa Clara  ,1176,4704
+1998,Santa Clara  ,991,3964
+1997,Santa Clara  ,938,3752
+2020,Santa Cruz  ,1155,4620
+2019,Santa Cruz  ,1066,4264
+2018,Santa Cruz  ,986,3944
+2017,Santa Cruz  ,949,3796
+2016,Santa Cruz  ,913,3652
+2015,Santa Cruz  ,888,3552
+2014,Santa Cruz  ,859,3436
+2013,Santa Cruz  ,866,3464
+2012,Santa Cruz  ,855,3420
+2011,Santa Cruz  ,830,3320
+2010,Santa Cruz  ,794,3176
+2009,Santa Cruz  ,786,3144
+2008,Santa Cruz  ,798,3192
+2007,Santa Cruz  ,799,3196
+2006,Santa Cruz  ,784,3136
+2005,Santa Cruz  ,731,2924
+2004,Santa Cruz  ,719,2876
+2003,Santa Cruz  ,687,2748
+2002,Santa Cruz  ,687,2748
+2001,Santa Cruz  ,674,2696
+2000,Santa Cruz  ,689,2756
+1999,Santa Cruz  ,598,2392
+1998,Santa Cruz  ,555,2220
+1997,Santa Cruz  ,523,2092
+2020,Shasta  ,961,3844
+2019,Shasta  ,875,3500
+2018,Shasta  ,844,3376
+2017,Shasta  ,819,3276
+2016,Shasta  ,783,3132
+2015,Shasta  ,766,3064
+2014,Shasta  ,742,2968
+2013,Shasta  ,725,2900
+2012,Shasta  ,724,2896
+2011,Shasta  ,718,2872
+2010,Shasta  ,696,2784
+2009,Shasta  ,691,2764
+2008,Shasta  ,686,2744
+2007,Shasta  ,672,2688
+2006,Shasta  ,641,2564
+2005,Shasta  ,618,2472
+2004,Shasta  ,597,2388
+2003,Shasta  ,574,2296
+2002,Shasta  ,557,2228
+2001,Shasta  ,541,2164
+2000,Shasta  ,520,2080
+1999,Shasta  ,499,1996
+1998,Shasta  ,489,1956
+1997,Shasta  ,474,1896
+2020,Sierra  ,809,3236
+2019,Sierra  ,748,2992
+2018,Sierra  ,766,3064
+2017,Sierra  ,739,2956
+2016,Sierra  ,727,2908
+2015,Sierra  ,669,2676
+2014,Sierra  ,759,3036
+2013,Sierra  ,719,2876
+2012,Sierra  ,734,2936
+2011,Sierra  ,697,2788
+2010,Sierra  ,616,2464
+2009,Sierra  ,626,2504
+2008,Sierra  ,621,2484
+2007,Sierra  ,609,2436
+2006,Sierra  ,605,2420
+2005,Sierra  ,571,2284
+2004,Sierra  ,535,2140
+2003,Sierra  ,476,1904
+2002,Sierra  ,485,1940
+2001,Sierra  ,579,2316
+2000,Sierra  ,574,2296
+1999,Sierra  ,524,2096
+1998,Sierra  ,503,2012
+1997,Sierra  ,488,1952
+2020,Siskiyou  ,885,3540
+2019,Siskiyou  ,806,3224
+2018,Siskiyou  ,793,3172
+2017,Siskiyou  ,766,3064
+2016,Siskiyou  ,737,2948
+2015,Siskiyou  ,714,2856
+2014,Siskiyou  ,677,2708
+2013,Siskiyou  ,658,2632
+2012,Siskiyou  ,648,2592
+2011,Siskiyou  ,644,2576
+2010,Siskiyou  ,628,2512
+2009,Siskiyou  ,601,2404
+2008,Siskiyou  ,600,2400
+2007,Siskiyou  ,573,2292
+2006,Siskiyou  ,547,2188
+2005,Siskiyou  ,523,2092
+2004,Siskiyou  ,503,2012
+2003,Siskiyou  ,493,1972
+2002,Siskiyou  ,464,1856
+2001,Siskiyou  ,454,1816
+2000,Siskiyou  ,427,1708
+1999,Siskiyou  ,406,1624
+1998,Siskiyou  ,392,1568
+1997,Siskiyou  ,382,1528
+2020,Solano  ,1282,5128
+2019,Solano  ,1189,4756
+2018,Solano  ,1128,4512
+2017,Solano  ,1089,4356
+2016,Solano  ,1052,4208
+2015,Solano  ,1028,4112
+2014,Solano  ,996,3984
+2013,Solano  ,971,3884
+2012,Solano  ,947,3788
+2011,Solano  ,916,3664
+2010,Solano  ,890,3560
+2009,Solano  ,909,3636
+2008,Solano  ,870,3480
+2007,Solano  ,826,3304
+2006,Solano  ,774,3096
+2005,Solano  ,739,2956
+2004,Solano  ,714,2856
+2003,Solano  ,676,2704
+2002,Solano  ,654,2616
+2001,Solano  ,644,2576
+2000,Solano  ,607,2428
+1999,Solano  ,562,2248
+1998,Solano  ,541,2164
+1997,Solano  ,521,2084
+2020,Sonoma  ,1223,4892
+2019,Sonoma  ,1109,4436
+2018,Sonoma  ,1051,4204
+2017,Sonoma  ,1003,4012
+2016,Sonoma  ,967,3868
+2015,Sonoma  ,950,3800
+2014,Sonoma  ,893,3572
+2013,Sonoma  ,874,3496
+2012,Sonoma  ,867,3468
+2011,Sonoma  ,870,3480
+2010,Sonoma  ,850,3400
+2009,Sonoma  ,832,3328
+2008,Sonoma  ,841,3364
+2007,Sonoma  ,824,3296
+2006,Sonoma  ,799,3196
+2005,Sonoma  ,770,3080
+2004,Sonoma  ,741,2964
+2003,Sonoma  ,716,2864
+2002,Sonoma  ,702,2808
+2001,Sonoma  ,695,2780
+2000,Sonoma  ,689,2756
+1999,Sonoma  ,618,2472
+1998,Sonoma  ,590,2360
+1997,Sonoma  ,553,2212
+2020,Stanislaus  ,1032,4128
+2019,Stanislaus  ,953,3812
+2018,Stanislaus  ,920,3680
+2017,Stanislaus  ,884,3536
+2016,Stanislaus  ,859,3436
+2015,Stanislaus  ,841,3364
+2014,Stanislaus  ,801,3204
+2013,Stanislaus  ,783,3132
+2012,Stanislaus  ,781,3124
+2011,Stanislaus  ,764,3056
+2010,Stanislaus  ,752,3008
+2009,Stanislaus  ,743,2972
+2008,Stanislaus  ,728,2912
+2007,Stanislaus  ,707,2828
+2006,Stanislaus  ,682,2728
+2005,Stanislaus  ,660,2640
+2004,Stanislaus  ,637,2548
+2003,Stanislaus  ,614,2456
+2002,Stanislaus  ,592,2368
+2001,Stanislaus  ,569,2276
+2000,Stanislaus  ,542,2168
+1999,Stanislaus  ,518,2072
+1998,Stanislaus  ,501,2004
+1997,Stanislaus  ,480,1920
+2020,Sutter  ,897,3588
+2019,Sutter  ,827,3308
+2018,Sutter  ,800,3200
+2017,Sutter  ,779,3116
+2016,Sutter  ,764,3056
+2015,Sutter  ,752,3008
+2014,Sutter  ,721,2884
+2013,Sutter  ,695,2780
+2012,Sutter  ,690,2760
+2011,Sutter  ,676,2704
+2010,Sutter  ,665,2660
+2009,Sutter  ,667,2668
+2008,Sutter  ,648,2592
+2007,Sutter  ,627,2508
+2006,Sutter  ,610,2440
+2005,Sutter  ,576,2304
+2004,Sutter  ,560,2240
+2003,Sutter  ,536,2144
+2002,Sutter  ,523,2092
+2001,Sutter  ,504,2016
+2000,Sutter  ,475,1900
+1999,Sutter  ,459,1836
+1998,Sutter  ,437,1748
+1997,Sutter  ,414,1656
+2020,Tehama  ,938,3752
+2019,Tehama  ,861,3444
+2018,Tehama  ,834,3336
+2017,Tehama  ,802,3208
+2016,Tehama  ,775,3100
+2015,Tehama  ,763,3052
+2014,Tehama  ,724,2896
+2013,Tehama  ,700,2800
+2012,Tehama  ,684,2736
+2011,Tehama  ,676,2704
+2010,Tehama  ,653,2612
+2009,Tehama  ,639,2556
+2008,Tehama  ,633,2532
+2007,Tehama  ,621,2484
+2006,Tehama  ,593,2372
+2005,Tehama  ,575,2300
+2004,Tehama  ,556,2224
+2003,Tehama  ,541,2164
+2002,Tehama  ,517,2068
+2001,Tehama  ,501,2004
+2000,Tehama  ,488,1952
+1999,Tehama  ,466,1864
+1998,Tehama  ,445,1780
+1997,Tehama  ,428,1712
+2020,Trinity  ,859,3436
+2019,Trinity  ,774,3096
+2018,Trinity  ,795,3180
+2017,Trinity  ,742,2968
+2016,Trinity  ,708,2832
+2015,Trinity  ,692,2768
+2014,Trinity  ,657,2628
+2013,Trinity  ,637,2548
+2012,Trinity  ,637,2548
+2011,Trinity  ,637,2548
+2010,Trinity  ,597,2388
+2009,Trinity  ,571,2284
+2008,Trinity  ,590,2360
+2007,Trinity  ,574,2296
+2006,Trinity  ,556,2224
+2005,Trinity  ,528,2112
+2004,Trinity  ,511,2044
+2003,Trinity  ,499,1996
+2002,Trinity  ,475,1900
+2001,Trinity  ,455,1820
+2000,Trinity  ,436,1744
+1999,Trinity  ,409,1636
+1998,Trinity  ,386,1544
+1997,Trinity  ,382,1528
+2020,Tulare  ,874,3496
+2019,Tulare  ,803,3212
+2018,Tulare  ,768,3072
+2017,Tulare  ,750,3000
+2016,Tulare  ,732,2928
+2015,Tulare  ,701,2804
+2014,Tulare  ,678,2712
+2013,Tulare  ,656,2624
+2012,Tulare  ,652,2608
+2011,Tulare  ,637,2548
+2010,Tulare  ,622,2488
+2009,Tulare  ,618,2472
+2008,Tulare  ,616,2464
+2007,Tulare  ,596,2384
+2006,Tulare  ,573,2292
+2005,Tulare  ,550,2200
+2004,Tulare  ,537,2148
+2003,Tulare  ,512,2048
+2002,Tulare  ,493,1972
+2001,Tulare  ,476,1904
+2000,Tulare  ,458,1832
+1999,Tulare  ,438,1752
+1998,Tulare  ,419,1676
+1997,Tulare  ,400,1600
+2020,Tuolumne  ,958,3832
+2019,Tuolumne  ,878,3512
+2018,Tuolumne  ,849,3396
+2017,Tuolumne  ,825,3300
+2016,Tuolumne  ,784,3136
+2015,Tuolumne  ,776,3104
+2014,Tuolumne  ,746,2984
+2013,Tuolumne  ,725,2900
+2012,Tuolumne  ,739,2956
+2011,Tuolumne  ,730,2920
+2010,Tuolumne  ,718,2872
+2009,Tuolumne  ,702,2808
+2008,Tuolumne  ,700,2800
+2007,Tuolumne  ,685,2740
+2006,Tuolumne  ,654,2616
+2005,Tuolumne  ,621,2484
+2004,Tuolumne  ,594,2376
+2003,Tuolumne  ,568,2272
+2002,Tuolumne  ,546,2184
+2001,Tuolumne  ,509,2036
+2000,Tuolumne  ,490,1960
+1999,Tuolumne  ,479,1916
+1998,Tuolumne  ,452,1808
+1997,Tuolumne  ,433,1732
+2020,Ventura  ,1220,4880
+2019,Ventura  ,1112,4448
+2018,Ventura  ,1062,4248
+2017,Ventura  ,1047,4188
+2016,Ventura  ,1031,4124
+2015,Ventura  ,1037,4148
+2014,Ventura  ,998,3992
+2013,Ventura  ,971,3884
+2012,Ventura  ,967,3868
+2011,Ventura  ,949,3796
+2010,Ventura  ,923,3692
+2009,Ventura  ,905,3620
+2008,Ventura  ,894,3576
+2007,Ventura  ,917,3668
+2006,Ventura  ,874,3496
+2005,Ventura  ,858,3432
+2004,Ventura  ,823,3292
+2003,Ventura  ,775,3100
+2002,Ventura  ,735,2940
+2001,Ventura  ,727,2908
+2000,Ventura  ,712,2848
+1999,Ventura  ,653,2612
+1998,Ventura  ,672,2688
+1997,Ventura  ,586,2344
+2020,Yolo  ,1264,5056
+2019,Yolo  ,1195,4780
+2018,Yolo  ,1169,4676
+2017,Yolo  ,1120,4480
+2016,Yolo  ,1076,4304
+2015,Yolo  ,1040,4160
+2014,Yolo  ,1010,4040
+2013,Yolo  ,968,3872
+2012,Yolo  ,952,3808
+2011,Yolo  ,919,3676
+2010,Yolo  ,894,3576
+2009,Yolo  ,840,3360
+2008,Yolo  ,832,3328
+2007,Yolo  ,802,3208
+2006,Yolo  ,754,3016
+2005,Yolo  ,734,2936
+2004,Yolo  ,713,2852
+2003,Yolo  ,673,2692
+2002,Yolo  ,684,2736
+2001,Yolo  ,680,2720
+2000,Yolo  ,641,2564
+1999,Yolo  ,622,2488
+1998,Yolo  ,615,2460
+1997,Yolo  ,607,2428
+2020,Yuba  ,1093,4372
+2019,Yuba  ,1023,4092
+2018,Yuba  ,987,3948
+2017,Yuba  ,956,3824
+2016,Yuba  ,921,3684
+2015,Yuba  ,903,3612
+2014,Yuba  ,842,3368
+2013,Yuba  ,819,3276
+2012,Yuba  ,827,3308
+2011,Yuba  ,818,3272
+2010,Yuba  ,813,3252
+2009,Yuba  ,801,3204
+2008,Yuba  ,793,3172
+2007,Yuba  ,753,3012
+2006,Yuba  ,707,2828
+2005,Yuba  ,683,2732
+2004,Yuba  ,647,2588
+2003,Yuba  ,659,2636
+2002,Yuba  ,608,2432
+2001,Yuba  ,579,2316
+2000,Yuba  ,542,2168
+1999,Yuba  ,516,2064
+1998,Yuba  ,499,1996
+1997,Yuba  ,457,1828
