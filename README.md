@@ -30,3 +30,5 @@ Once the datasets are downloaded from each database, we will check for:
 -	Tableau
 -	SQL
 -	TensorFlow
+
+[Our Team's Presentation](https://docs.google.com/presentation/d/1FOcmRm3brOt_dvdRZGTh9coPupXMhPIcu5Hu8wLfr5M/edit?usp=sharing)
